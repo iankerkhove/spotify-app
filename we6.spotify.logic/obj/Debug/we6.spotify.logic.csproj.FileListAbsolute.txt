@@ -1,0 +1,14 @@
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\obj\Debug\we6.spotify.logic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\bin\Debug\we6.spotify.logic.dll
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\bin\Debug\we6.spotify.logic.pdb
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\obj\Debug\we6.spotify.logic.dll
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify.logic\obj\Debug\we6.spotify.logic.pdb
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\bin\Debug\we6.spotify.logic.dll
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\bin\Debug\we6.spotify.logic.pdb
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\obj\Debug\we6.spotify.logic.csprojResolveAssemblyReference.cache
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\obj\Debug\we6.spotify.logic.dll
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify.logic\obj\Debug\we6.spotify.logic.pdb
