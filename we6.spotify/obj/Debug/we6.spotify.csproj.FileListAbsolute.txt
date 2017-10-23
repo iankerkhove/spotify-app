@@ -1,0 +1,26 @@
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\we6.spotify.exe.config
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\obj\Debug\we6.spotify.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\obj\Debug\we6.spotify.Form1.resources
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\obj\Debug\we6.spotify.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\obj\Debug\we6.spotify.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\we6.spotify.exe
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\we6.spotify.pdb
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\we6.spotify.logic.dll
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\we6.spotify.logic.pdb
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\obj\Debug\we6.spotify.exe
+C:\Users\Administrator\Dropbox\school\2BA\Semester 2\OO Advanced C#\Werkcolleges\we6.spotify\we6.spotify\obj\Debug\we6.spotify.pdb
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\we6.spotify.exe.config
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\obj\Debug\we6.spotify.exe
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\obj\Debug\we6.spotify.pdb
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\we6.spotify.exe
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\we6.spotify.pdb
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\we6.spotify.logic.dll
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\we6.spotify.logic.pdb
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\obj\Debug\we6.spotify.csprojResolveAssemblyReference.cache
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\obj\Debug\we6.spotify.Form1.resources
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\obj\Debug\we6.spotify.Properties.Resources.resources
+C:\Users\Mauritz\Dropbox\EHB Informatica\EhB Dig-X Bach 2\C#\Werkcolleges\Archive-1\we6.spotify\we6.spotify\obj\Debug\we6.spotify.csproj.GenerateResource.Cache
